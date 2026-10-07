@@ -1,0 +1,2 @@
+$ curl http://localhost:3000/api/gifts/1
+{"_id":"648b23c...","id":1,"name":"Classic Watch","category":"Accessories","price":120,"description":"Elegant timepiece."}

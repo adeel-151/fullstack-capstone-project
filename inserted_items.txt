@@ -1,0 +1,3 @@
+$ node seed.js
+Connected successfully to server
+inserted_items: Imported 16 documents into MongoDB.

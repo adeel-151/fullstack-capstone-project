@@ -1,0 +1,18 @@
+[
+    { "id": 1, "name": "Classic Watch", "category": "Accessories", "price": 120, "description": "Elegant timepiece." },
+    { "id": 2, "name": "Leather Wallet", "category": "Accessories", "price": 45, "description": "Genuine leather." },
+    { "id": 3, "name": "Scented Candle", "category": "Home", "price": 15, "description": "Relaxing lavender scent." },
+    { "id": 4, "name": "Bluetooth Speaker", "category": "Electronics", "price": 60, "description": "Portable audio." },
+    { "id": 5, "name": "Coffee Mug", "category": "Kitchen", "price": 12, "description": "Ceramic coffee mug." },
+    { "id": 6, "name": "Notebook", "category": "Stationery", "price": 8, "description": "Ruled pages." },
+    { "id": 7, "name": "Fountain Pen", "category": "Stationery", "price": 25, "description": "Smooth writing." },
+    { "id": 8, "name": "Desk Lamp", "category": "Home", "price": 30, "description": "LED reading lamp." },
+    { "id": 9, "name": "Running Shoes", "category": "Fitness", "price": 90, "description": "Comfortable trainers." },
+    { "id": 10, "name": "Yoga Mat", "category": "Fitness", "price": 20, "description": "Non-slip surface." },
+    { "id": 11, "name": "Wireless Mouse", "category": "Electronics", "price": 25, "description": "Ergonomic design." },
+    { "id": 12, "name": "Mechanical Keyboard", "category": "Electronics", "price": 75, "description": "Tactile switches." },
+    { "id": 13, "name": "Sunglasses", "category": "Accessories", "price": 50, "description": "UV protection." },
+    { "id": 14, "name": "Water Bottle", "category": "Fitness", "price": 18, "description": "Insulated stainless steel." },
+    { "id": 15, "name": "Cookbook", "category": "Kitchen", "price": 22, "description": "Healthy recipes." },
+    { "id": 16, "name": "Backpack", "category": "Accessories", "price": 40, "description": "Durable and spacious." }
+]
