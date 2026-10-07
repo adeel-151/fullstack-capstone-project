@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import LandingPage from './components/LandingPage';
-import RegisterPage from './components/RegisterPage';
-import LoginPage from './components/LoginPage';
+import LandingPage from './components/LandingPage.jsx';
+import RegisterPage from './components/RegisterPage.jsx';
+import LoginPage from './components/LoginPage.jsx';
 import './index.css';
 
 const GiftsPage = () => {
